@@ -6,7 +6,7 @@ package tictactoe;
 
 /**
  *
- * @author lenovo
+ * @author shubhi
  */
 public class TicTacToe {
 
